@@ -1,6 +1,8 @@
 # Interspeech 2021 submission
 **Supplemental figures**
 
+(See description in *"3. Results and discussion"* for Figure 4.)
+
 1. /i/-context words "ear" and "reap"
 
 *Example time-dependent mean and standard deviation of tongue part trajectories for accurate (top row) and misarticulated (center row) /ir/ and /rip/ productions, with the associated biofeedback parameter trajectories (bottom row)*
